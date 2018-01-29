@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Returns the bumped version based on last existing tag
 # Tags get sorted using 'sort -V'
